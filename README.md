@@ -1,6 +1,8 @@
-New 2020 Design contribution for: Question2Answer Docs. **[See it live!](https://heliochun.github.io/q2adocs/)**
+**&#10149;[New 2020 Design contribution for: Question2Answer Docs. See it live!](https://heliochun.github.io/q2adocs/)**
 
 # Question2Answer docs
+
+[![Build Status](https://travis-ci.org/q2a/q2a.github.io.svg?branch=master)](https://travis-ci.org/q2a/q2a.github.io)
 
 This repository holds the new 2020 design files for the [Question2Answer](https://www.question2answer.org/) platform at [docs.question2answer.org](https://docs.question2answer.org/) and generates it live using GitHub Pages. Everyone is welcome to contribute improvements.
 
