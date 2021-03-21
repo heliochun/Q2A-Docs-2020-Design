@@ -1,4 +1,4 @@
-**&#10149;[New 2020 Design contribution for: Question2Answer Docs. See it live!](https://heliochun.github.io/q2adocs/)**
+**&#10149; [New 2020 Design contribution for: Question2Answer Docs. See it live!](https://heliochun.github.io/q2adocs/)**
 
 # Question2Answer docs
 
